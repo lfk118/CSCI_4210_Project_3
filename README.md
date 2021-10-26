@@ -1,6 +1,8 @@
 # CSCI_4210_Project_3
 
-The order should be:
+All data are collected from https://pems.dot.ca.gov and should only be used for education purpose.
+
+The detectors' order along the US 101-S should be:
 1.  	Oregon Expwy on diag
 2.  	Oregon Expwy rm-s-diag
 3.  	oppo Embarcadero Rd rm-n-coll
