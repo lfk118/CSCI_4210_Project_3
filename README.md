@@ -8,6 +8,8 @@ The detectors' order along the US 101-S should be:
 3.  	oppo Embarcadero Rd rm-n-coll
 4.  	S of Clarke Ave
 5.  	University Ave rm-s-diag
-7.  	University Ave on 
-8.  	Willow Rd rm-s-diag
-9.  	Willow Rd rm-s-loop
+6.  	University Ave on 
+7.  	Willow Rd rm-s-diag
+8.  	Willow Rd rm-s-loop
+
+You should notice that I only choose 8 detectors/stations along the road and you should feel free to use the data from any other unused detector/station if you want.
