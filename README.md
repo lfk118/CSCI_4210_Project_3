@@ -7,5 +7,5 @@ The order should be:
 4.  	S of Clarke Ave
 5.  	University Ave rm-s-diag
 7.  	University Ave on 
-8.  	Willow Rd on diag
+8.  	Willow Rd rm-s-diag
 9.  	Willow Rd on loop
