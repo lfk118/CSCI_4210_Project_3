@@ -8,4 +8,4 @@ The order should be:
 5.  	University Ave rm-s-diag
 7.  	University Ave on 
 8.  	Willow Rd rm-s-diag
-9.  	Willow Rd on loop
+9.  	Willow Rd rm-s-loop
