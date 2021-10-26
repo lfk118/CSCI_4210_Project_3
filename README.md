@@ -5,7 +5,7 @@ The order should be:
 2.  	Oregon Expwy rm-s-diag
 3.  	oppo Embarcadero Rd rm-n-coll
 4.  	S of Clarke Ave
-5.  	University Ave on (408276)
-7.  	University Ave on (411559)
+5.  	University Ave rm-s-diag
+7.  	University Ave on 
 8.  	Willow Rd on diag
 9.  	Willow Rd on loop
