@@ -1,6 +1,6 @@
 # CSCI_4210_Project_3
 
-All data are collected from https://pems.dot.ca.gov and should only be used for education purpose.
+All data are collected from https://pems.dot.ca.gov and should only be used for educationalpurpose.
 
 The detectors' order along the US 101-S should be:
 1.  	Oregon Expwy on diag
